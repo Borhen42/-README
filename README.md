@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Messaoudi Borhen from Tunisia <br><br>- 🔭 I’m working as Web développer <br>- 📚 I'm currently learning IA skills <br>- ⚡ In my free time I Code </p>
 
 ###
 
